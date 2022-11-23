@@ -28,7 +28,7 @@ while True:
 
     # Use Isbn to locate a previously selected book
     isbn = df_sample.iloc[0,3]
-    print(isbn)
+    
     # Send a request and get a JSON response
     resp = urlopen(api + isbn)
 
