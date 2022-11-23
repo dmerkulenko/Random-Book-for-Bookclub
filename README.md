@@ -23,7 +23,8 @@ Get a random book from Goodreads-books(https://www.kaggle.com/datasets/jealousle
 ## Conclusion
 
 Here is the result! A random book was selected! And you were automatically redirected to the Google Books page, where you can find the description of this book, reviews and a link to see places where this book can be purchased.
-
+#### Randomly Selected Book Shown in Terminal
 ![Randomly Selected Book Shown in Terminal|500x271,100%](Images/selected_book.png)
+#### Google Books Page
 ![Google Books Page](Images/google_screenshot.png)
 
